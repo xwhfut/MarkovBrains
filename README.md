@@ -1,6 +1,6 @@
-# MarkovBrains
+# Markov Brains
 Probability-based MIDI Generator
-Markov Brains is a Probability-based MIDI generator plugin. It's based on The principle of Markov Chains, the capstone project of @jyburns. The plugin is available in VST and VST3 formats.
+Markov Brains is a probability-based MIDI generator plugin that uses Markov chains. It's based on the capstone project of @jyburns. The plugin is available in VST and VST3 formats.
  ## Installing
 Coming Soon
  ## For Contributors
