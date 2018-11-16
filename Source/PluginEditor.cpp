@@ -17,7 +17,7 @@ MarkovBrainsAudioProcessorEditor::MarkovBrainsAudioProcessorEditor (MarkovBrains
 {
     // Make sure that before the constructor has finished, you've set the
     // editor's size to whatever you need it to be.
-    setSize (400, 300);
+    setSize (1000, 600);
 }
 
 MarkovBrainsAudioProcessorEditor::~MarkovBrainsAudioProcessorEditor()
@@ -32,7 +32,7 @@ void MarkovBrainsAudioProcessorEditor::paint (Graphics& g)
 
     g.setColour (Colours::white);
     g.setFont (15.0f);
-    g.drawFittedText ("Hello World!", getLocalBounds(), Justification::centred, 1);
+    g.drawFittedText ("Markov Brains", getLocalBounds(), Justification::centred, 1);
 }
 
 void MarkovBrainsAudioProcessorEditor::resized()

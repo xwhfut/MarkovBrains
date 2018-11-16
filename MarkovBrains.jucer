@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="s9nEuF" name="MarkovBrains" projectType="audioplug" jucerVersion="5.4.0">
-  <MAINGROUP id="bNVsL0" name="MarkovBrains">
-    <GROUP id="{6E714EE7-4A11-EE68-F847-9A421664801D}" name="Source">
-      <FILE id="MsoPAo" name="TransitionMatrix.cpp" compile="1" resource="0"
+<JUCERPROJECT id="dLOVX1" name="MarkovBrains" projectType="audioplug" jucerVersion="5.4.1">
+  <MAINGROUP id="mCukP0" name="MarkovBrains">
+    <GROUP id="{58DC2026-897A-A7ED-18C9-8B9BD66CF26C}" name="Source">
+      <FILE id="JU34tr" name="Key.cpp" compile="1" resource="0" file="Source/Key.cpp"/>
+      <FILE id="YgBBrS" name="Key.h" compile="0" resource="0" file="Source/Key.h"/>
+      <FILE id="y74JbX" name="TransitionMatrix.cpp" compile="1" resource="0"
             file="Source/TransitionMatrix.cpp"/>
-      <FILE id="fwLn1A" name="TransitionMatrix.h" compile="0" resource="0"
+      <FILE id="ErpomO" name="TransitionMatrix.h" compile="0" resource="0"
             file="Source/TransitionMatrix.h"/>
-      <FILE id="ltpW5N" name="Key.cpp" compile="1" resource="0" file="Source/Key.cpp"/>
-      <FILE id="kzZUfK" name="Key.h" compile="0" resource="0" file="Source/Key.h"/>
-      <FILE id="Zn3HLz" name="PluginProcessor.cpp" compile="1" resource="0"
+      <FILE id="F0C6wI" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
-      <FILE id="Wk0XcG" name="PluginProcessor.h" compile="0" resource="0"
+      <FILE id="ZnPFcz" name="PluginProcessor.h" compile="0" resource="0"
             file="Source/PluginProcessor.h"/>
-      <FILE id="RpASMk" name="PluginEditor.cpp" compile="1" resource="0"
+      <FILE id="CFNn6v" name="PluginEditor.cpp" compile="1" resource="0"
             file="Source/PluginEditor.cpp"/>
-      <FILE id="Kf715G" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <FILE id="XZXxVr" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
     </GROUP>
   </MAINGROUP>
   <EXPORTFORMATS>

@@ -442,10 +442,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Source\TransitionMatrix.cpp">
+    <ClCompile Include="..\..\Source\Key.cpp">
       <Filter>MarkovBrains\Source</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\Key.cpp">
+    <ClCompile Include="..\..\Source\TransitionMatrix.cpp">
       <Filter>MarkovBrains\Source</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\PluginProcessor.cpp">
@@ -2436,10 +2436,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Source\TransitionMatrix.h">
+    <ClInclude Include="..\..\Source\Key.h">
       <Filter>MarkovBrains\Source</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Source\Key.h">
+    <ClInclude Include="..\..\Source\TransitionMatrix.h">
       <Filter>MarkovBrains\Source</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\PluginProcessor.h">

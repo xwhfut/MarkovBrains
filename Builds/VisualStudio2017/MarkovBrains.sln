@@ -1,17 +1,17 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2017
 
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MarkovBrains - Standalone Plugin", "MarkovBrains_StandalonePlugin.vcxproj", "{128323AB-C78D-0AB9-C0BD-1FAF4189CF66}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MarkovBrains - Standalone Plugin", "MarkovBrains_StandalonePlugin.vcxproj", "{68B3B83A-FA61-7D71-9CF2-95446EF6618F}"
 	ProjectSection(ProjectDependencies) = postProject
-		{239DB376-26C0-10C2-92AC-505FB356E363} = {239DB376-26C0-10C2-92AC-505FB356E363}
+		{DEC5F659-76CA-2D49-72DC-056D35CBAFDA} = {DEC5F659-76CA-2D49-72DC-056D35CBAFDA}
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MarkovBrains - VST3", "MarkovBrains_VST3.vcxproj", "{1B76D23D-8843-7CD0-8079-731931AD49A1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MarkovBrains - VST3", "MarkovBrains_VST3.vcxproj", "{F4CF44F1-9AE8-F7E4-1651-94731C2B145F}"
 	ProjectSection(ProjectDependencies) = postProject
-		{239DB376-26C0-10C2-92AC-505FB356E363} = {239DB376-26C0-10C2-92AC-505FB356E363}
+		{DEC5F659-76CA-2D49-72DC-056D35CBAFDA} = {DEC5F659-76CA-2D49-72DC-056D35CBAFDA}
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MarkovBrains - Shared Code", "MarkovBrains_SharedCode.vcxproj", "{239DB376-26C0-10C2-92AC-505FB356E363}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MarkovBrains - Shared Code", "MarkovBrains_SharedCode.vcxproj", "{DEC5F659-76CA-2D49-72DC-056D35CBAFDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,18 +19,18 @@ Global
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1B76D23D-8843-7CD0-8079-731931AD49A1}.Debug|x64.ActiveCfg = Debug|x64
-		{1B76D23D-8843-7CD0-8079-731931AD49A1}.Debug|x64.Build.0 = Debug|x64
-		{1B76D23D-8843-7CD0-8079-731931AD49A1}.Release|x64.ActiveCfg = Release|x64
-		{1B76D23D-8843-7CD0-8079-731931AD49A1}.Release|x64.Build.0 = Release|x64
-		{128323AB-C78D-0AB9-C0BD-1FAF4189CF66}.Debug|x64.ActiveCfg = Debug|x64
-		{128323AB-C78D-0AB9-C0BD-1FAF4189CF66}.Debug|x64.Build.0 = Debug|x64
-		{128323AB-C78D-0AB9-C0BD-1FAF4189CF66}.Release|x64.ActiveCfg = Release|x64
-		{128323AB-C78D-0AB9-C0BD-1FAF4189CF66}.Release|x64.Build.0 = Release|x64
-		{239DB376-26C0-10C2-92AC-505FB356E363}.Debug|x64.ActiveCfg = Debug|x64
-		{239DB376-26C0-10C2-92AC-505FB356E363}.Debug|x64.Build.0 = Debug|x64
-		{239DB376-26C0-10C2-92AC-505FB356E363}.Release|x64.ActiveCfg = Release|x64
-		{239DB376-26C0-10C2-92AC-505FB356E363}.Release|x64.Build.0 = Release|x64
+		{F4CF44F1-9AE8-F7E4-1651-94731C2B145F}.Debug|x64.ActiveCfg = Debug|x64
+		{F4CF44F1-9AE8-F7E4-1651-94731C2B145F}.Debug|x64.Build.0 = Debug|x64
+		{F4CF44F1-9AE8-F7E4-1651-94731C2B145F}.Release|x64.ActiveCfg = Release|x64
+		{F4CF44F1-9AE8-F7E4-1651-94731C2B145F}.Release|x64.Build.0 = Release|x64
+		{68B3B83A-FA61-7D71-9CF2-95446EF6618F}.Debug|x64.ActiveCfg = Debug|x64
+		{68B3B83A-FA61-7D71-9CF2-95446EF6618F}.Debug|x64.Build.0 = Debug|x64
+		{68B3B83A-FA61-7D71-9CF2-95446EF6618F}.Release|x64.ActiveCfg = Release|x64
+		{68B3B83A-FA61-7D71-9CF2-95446EF6618F}.Release|x64.Build.0 = Release|x64
+		{DEC5F659-76CA-2D49-72DC-056D35CBAFDA}.Debug|x64.ActiveCfg = Debug|x64
+		{DEC5F659-76CA-2D49-72DC-056D35CBAFDA}.Debug|x64.Build.0 = Debug|x64
+		{DEC5F659-76CA-2D49-72DC-056D35CBAFDA}.Release|x64.ActiveCfg = Release|x64
+		{DEC5F659-76CA-2D49-72DC-056D35CBAFDA}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
