@@ -32,7 +32,7 @@ void MarkovBrainsAudioProcessorEditor::paint (Graphics& g)
 
     g.setColour (Colours::white);
     g.setFont (15.0f);
-    g.drawFittedText ("Markov Brains", getLocalBounds(), Justification::centred, 1);
+    g.drawFittedText ("Test change", getLocalBounds(), Justification::centred, 1);
 }
 
 void MarkovBrainsAudioProcessorEditor::resized()

@@ -57,5 +57,28 @@ public:
 
 private:
     //==============================================================================
+	
+	
+//=======MidiMessage::noteOn(int channel, int noteNumber, uint8 velocity)===========
+	// Integers holding value for input and output note
+	int inputNote;
+	int outputNote;
+
+	// Likely won't need
+	// Will initialize to a  1 in constructor (1-16)
+	int midiChannel;
+
+	// We may have some level of varying velocity.
+	uint8 currentVelocity;
+//==================================================================================
+
+	// TransitionMatrix matrix;
+	// currentKey key;
+	// bool bypassOn;
+	// bool sineOn;
+	// bool gateOn;
+
+
+
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (MarkovBrainsAudioProcessor)
 };

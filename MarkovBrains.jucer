@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="dLOVX1" name="MarkovBrains" projectType="audioplug" jucerVersion="5.4.1">
+<JUCERPROJECT id="dLOVX1" name="MarkovBrains" projectType="audioplug" jucerVersion="5.4.1"
+              pluginFormats="buildVST,buildVST3" version="0.0.1" companyName="JKBALLSHATS"
+              companyEmail="kurtyilmaz@ufl.edu" pluginCharacteristicsValue="pluginIsMidiEffectPlugin,pluginProducesMidiOut,pluginWantsMidiIn"
+              pluginVST3Category="Fx,Generator,Instrument" pluginVSTCategory="kPlugCategEffect">
   <MAINGROUP id="mCukP0" name="MarkovBrains">
     <GROUP id="{58DC2026-897A-A7ED-18C9-8B9BD66CF26C}" name="Source">
       <FILE id="JU34tr" name="Key.cpp" compile="1" resource="0" file="Source/Key.cpp"/>
